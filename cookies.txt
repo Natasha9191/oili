@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+autoclipping.com	TRUE	/	FALSE	1999999999	PHPSESSID	be3036000b20701257ffdf496f0e5cbd
+.autoclipping.com	TRUE	/	FALSE	1999999999	__ddg1_	S6IJJXB6d1nmgalxj8ZV
+
